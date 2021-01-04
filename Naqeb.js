@@ -1,5 +1,5 @@
 const Discord = require("discord.js");
-const myid = ['id owner']
+const myid = ['711293222852362290']
 const client = new Discord.Client();
 const client2 = new Discord.Client();
 const client3 = new Discord.Client();
@@ -334,7 +334,7 @@ client160.login("")
 ////////
 client.on("message", message => {
   if (!message.guild) return;
-  if (message.content === "stayvoice") {
+  if (message.content === "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -351,7 +351,7 @@ client.on("message", message => {
 
 client2.on("message", message => {
   if (!message.guild) return;
-  if (message.content === "stayvoice") {
+  if (message.content === "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -369,7 +369,7 @@ client2.on("message", message => {
 
 client3.on("message", message => {
   if (!message.guild) return;
-  if (message.content === "stayvoice") {
+  if (message.content === "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -386,7 +386,7 @@ client3.on("message", message => {
 
 client4.on("message", message => {
   if (!message.guild) return;
-  if (message.content === "stayvoice") {
+  if (message.content === "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -403,7 +403,7 @@ client4.on("message", message => {
 
 client5.on("message", message => {
   if (!message.guild) return;
-  if (message.content === "stayvoice") {
+  if (message.content === "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -420,7 +420,7 @@ client5.on("message", message => {
 
 client6.on("message", message => {
   if (!message.guild) return;
-  if (message.content === "stayvoice") {
+  if (message.content === "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -437,7 +437,7 @@ client6.on("message", message => {
 
 client7.on("message", message => {
   if (!message.guild) return;
-  if (message.content === "stayvoice") {
+  if (message.content === "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
@@ -454,7 +454,7 @@ client7.on("message", message => {
 
 client8.on("message", message => {
   if (!message.guild) return;
-  if (message.content === "stayvoice") {
+  if (message.content === "wara") {
     if (!(message.author.id)) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
